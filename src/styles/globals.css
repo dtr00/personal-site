@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind base;
+@import "tailwindcss";
 
 body {
     width: 100vw;
